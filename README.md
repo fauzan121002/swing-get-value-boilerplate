@@ -16,7 +16,8 @@
 Klik Tombol Clone or Download pada menu diatas list directory lalu pilih download ZIP
 
 ### Dir
-Install git https://git-scm.com/download/win 
+Install git https://git-scm.com/download/win
+
 git clone https://github.com/fauzan121002/swing-get-value-boilerplate.git pada Command Line Interface OS anda.
 
 Happy Coding!! 😄 
