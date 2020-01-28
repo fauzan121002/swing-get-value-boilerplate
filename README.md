@@ -16,6 +16,6 @@
 Klik Tombol Clone or Download pada menu diatas list directory lalu pilih download ZIP
 
 ### Dir
-Install git lalu Klik Tombol Clone or Download copy paste url git repo yang ada
+Install git https://git-scm.com/download/win lalu Klik Tombol Clone or Download copy paste url git repo yang ada
 
 Happy Coding!! 😄 
